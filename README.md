@@ -3,9 +3,9 @@ This is a web app that detects plant diseases by analyzing images of plant leave
 
 To run this app on your computer, download and install the following requirements.
 
-For Soil Images Dataset: "/content/drive/MyDrive/Tomatodataset.zip"
+For Soil Images Dataset: "https://drive.google.com/file/d/1MnrdugJCkgb3IVT8RNDYz8evvzS4ezg5/view?usp=drive_link"
 
-For Tomato Leaf Dataset : "https://drive.google.com/file/d/1WIELZz9_86ENWg0TvzcLEoCay41XsG8U/view?usp=drive_link"
+For Tomato Leaf Dataset :"https://drive.google.com/file/d/19jTbyBIJYj-0QnUE_7oOYT8NYYt6g9Wi/view?usp=drive_link"
 
 MobileNetV2_tomato_leaf_disease.pth, EfficientNetB0_tomato_leaf_disease.pth are Pre trained Models on Collab
 
