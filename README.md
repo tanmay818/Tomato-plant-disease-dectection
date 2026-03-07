@@ -3,7 +3,7 @@ This is a web app that detects plant diseases by analyzing images of plant leave
 
 To run this app on your computer, download and install the following requirements.
 
-For Soil Images Dataset: "https://drive.google.com/file/d/1VvFJrbmQmUnuIpCxBGlVxxE-bRjcvfkx/view?usp=drive_link"
+For Soil Images Dataset: "/content/drive/MyDrive/Tomatodataset.zip"
 
 For Tomato Leaf Dataset : "https://drive.google.com/file/d/1WIELZz9_86ENWg0TvzcLEoCay41XsG8U/view?usp=drive_link"
 
